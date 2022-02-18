@@ -1,0 +1,87 @@
+body {
+    background-color:rgb(18, 19, 20);
+    background-image: url(../images/backgroundimage.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li {
+    font-weight: bold;
+    font-style: italic;
+    color:white;
+    text-align: left;
+    font-size: 22px;
+}
+h2 {
+    color: white;
+    text-align:center;
+}
+h3 {
+    color: white;
+    text-align:center;
+}
+:link {
+    color: rgb(192, 89, 30);
+}
+:link:hover {
+    color: rgb(99, 99, 189);
+}
+p {
+    color: white;
+    font-size: 22px;
+}
+ul {
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    font-size: 19px;
+}
+.bottomlinks {
+    text-align: left;
+    color: rgb(192, 89, 30);
+}
+.bottomlinks:hover {
+    color: rgb(99, 99, 189);
+}
+.frontpagelink {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+.frontpagelink:hover {
+    color: rgb(99, 99, 189);
+}
+.anchor {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(192, 89, 30);
+}
+.anchor:hover {
+    color: rgb(99, 99, 189);
+}
+.basictext {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.aboutmephoto {
+    text-align: center;
+    width: fit-content;
+    position:static;
+}
+.center {
+    text-align: center;
+}
+.bemiddle {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    text-align: center;
+}
+.changecolor {
+    color:rgb(192, 89, 30);
+}
+.changecolor:hover {
+    color: rgb(99, 99, 189);
+}
